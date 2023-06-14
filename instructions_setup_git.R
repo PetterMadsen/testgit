@@ -4,3 +4,5 @@
 library(usethis)
 use_git()
 use_github()
+
+#här är några ändringar. Hej hej kommentaren.
